@@ -1,0 +1,112 @@
+ 
+Product Collection
+
+ (
+{"productName": "Apple Macbook Pro 2018",
+        "image": "https://drive.google.com/uc?export=view&id=1M0N1nRUtZBI9T5HoluOSeklecuafWRMW",
+        "cpu": "6-core Intel i7, 8th generation",
+        "ram": "16GB",
+        "storage": "1TB GB SSD",
+        "screen": "15-inch Retina display",
+        "price": "115999",
+        "description": "If you're after the latest and greatest laptop from Apple, we suggest you look into the 2018 model of the 15-inch MacBook Pro with Touch Bar. The headline Touch Bar – a thin OLED display at the top of the keyboard which can be used for any number of things, whether that be auto-suggesting words as you type or offering Touch ID so you can log in with just your fingerprint – is of course included. It's certainly retained Apple's sense of style, but it comes at a cost. This is a pricey machine, so you may want to consider one of the Windows alternatives. But, if you're a steadfast Apple diehard, this is definitely the best laptop for you!"
+    });
+
+
+ 
+{"productName": "Lenovo Idea Pad 330i",
+        "image": "https://drive.google.com/uc?export=view&id=1A-2cBdulgTr8lqERSrDsXBNN5-TZm5J1",
+        "cpu": "6-core Intel i5, 8th generation",
+        "ram": "16GB",
+        "storage": "512 GB SSD",
+        "screen": "15-inch Retina display",
+        "price": "59999",
+        "description": "The IdeaPad 3i Gen 6 (15, Intel) makes staying indoors and working or learning from home even more enjoyable.!"
+    });
+
+{"productName": "Dell Inspiron 700",
+        "image": "https://drive.google.com/uc?export=view&id=1ofAScM62EZADu2-WR-biNa4YN33149Zo",
+        "cpu": "6-core Intel i7, 8th generation",
+        "ram": "8 GB",
+        "storage": "240 GB SSD",
+        "screen": "15-inch Retina display",
+        "price": "59999",
+        "description": "The Dell Inspiron Gen 7 (15, Intel) makes staying indoors and working or learning from home even more enjoyable.!"
+    });
+
+
+
+{"productName": "HP Envy 7s",
+        "image": "https://drive.google.com/uc?export=view&id=1ofAScM62EZADu2-WR-biNa4YN33149Zo",
+        "cpu": "Intel Core i5-1135G7 ",
+        "ram": "8GB",
+        "storage": "1TB GB SSD",
+        "screen": "15-inch Retina display",
+        "price": "63999",
+        "description": "	 Multi-core is designed to improve performance of certain software products. Not all customers or software applications will necessarily benefit from use of this technology. Performance and clock frequency will vary depending on application workload and your hardware and software configurations."
+    });
+
+Specs Collection
+
+({
+OS_Name:"Windows 11",
+OS_Price:5000,
+OS_Desc:"The all new Operating System from Windows which is just made for you",
+OS_img:"https://drive.google.com/uc?export=view&id=1eCr-G3Tjgv5_SZwGM1KZsC1Nh_Rkbnn6",
+
+"Graphics_name":"Nvidia G force 4GB Rtx 4000",
+"Graphics_price":"7200",
+"Graphics_Desc":"Get the ultimate performance for gamers and creators with the NVIDIA Ampere Architecture."
+"Graphics_image":"https://drive.google.com/uc?export=view&id=16TFaeHIQFJ-c2x4jf0Svm2ZSjMHLIi6m",
+"SSD_name":"SanDisk SSD Plus SATA 120 GB",
+"SSD_image":"https://drive.google.com/uc?export=view&id=1w9rmW35-j-ZTMU4LgfcGDDZo51BmzWmH",
+"SSD_price":"3600",
+"SSD_Desc":"SanDisk SSDs are cooler, quieter and more efficient than a hard disk drive, so your laptop battery lasts a long time on a single charge."
+});
+
+
+Processor Collection
+
+({
+"Name":"Intel i5 9th Gen",
+"Price":"21,000"})
+
+
+RAM Collection
+  ({
+     "PRICE": 5000, "RAM": "8GB RAM" ,
+     "PRICE": 10000, "RAM": "12GB RAM" ,
+     "PRICE": 20000, "RAM": "16 GB RAM" ,
+     "PRICE": 30000, "RAM": "32 GB RAM" ,
+  });
+
+
+
+
+
+Orders Collection
+
+({
+"product_Name": "Apple Macbook Pro 2018",
+"Processor_Name":"Intel i5 9th Gen",
+"Processor_Price":"20,000",
+"RAM_Name":"8 GB DDR5",
+"RAM_Price":"10,000",
+"Storage_Name":"1 TB SSD",
+"Storage_Price":"13,000",
+"Graphics_Name":"4 GB NVIDIA GTX",
+"Graphics_Price":"2,000",
+"Customer_Name":"Hemanth",
+"Email":"shark@ocean@gmail.com",
+"Address":"Anna Nagar",
+"Phone":"7558186699",
+"Price":"92,000",
+"Date":"12-02-2021",
+"Invoice_ID":"T4-2021-001"})
+
+
+
+
+
+
+
